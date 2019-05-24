@@ -1,4 +1,4 @@
-Assignment 1 - Storage Manager
+###Assignment 1 - Storage Manager
 
 Authors: Congyi Zhang (A20414447), Krystle Bates (A20434573), Sneha Mitta (A20411515)
 
